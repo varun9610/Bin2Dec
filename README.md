@@ -1,5 +1,5 @@
 # Binary to Decimal Converter
-
+[![Run on Repl.it](https://repl.it/@hexinab0x/Bin2Dec#Bin2Dec.py)](https://repl.it/@hexinab0x/Bin2Dec#Bin2Dec.py)
 Idea from [here](https://github.com/florinpop17/app-ideas)
 
 **Tier:** 1-Beginner
