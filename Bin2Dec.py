@@ -4,9 +4,10 @@ def bin2dec(binaryinfunction):
         decimalinfunction = decimalinfunction * 2 + int(digit)
     return decimalinfunction
 
+
 def check_num_valid(binarynumber):
     for digit in binarynumber:
-        if digit != 0 or digit != 1:
+        if int(digit) != 0 and int(digit) != 1:
             return 0
         else:
             return 1
