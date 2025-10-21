@@ -9,8 +9,7 @@ def check_num_valid(binarynumber):
     for digit in binarynumber:
         if int(digit) != 0 and int(digit) != 1:
             return 0
-        else:
-            return 1
+    return 1
 
 
 if __name__ == '__main__':
